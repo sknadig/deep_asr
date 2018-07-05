@@ -1,1 +1,22 @@
 /home/neo/MS/TIMIT
+contains:
+drwxrwxrwx  2 neo neo    4096 May  8 11:16 csvs
+-rwxrwxrwx  1 neo neo  229515 May  2 10:43 delete
+drwxrwxrwx  2 neo neo    4096 Feb 22  2006 DOC
+-rwxrwxrwx  1 neo neo   13834 Nov  1  1990 README.DOC
+-rwxrwxrwx  1 neo neo       0 May  2 10:42 riffs
+-rwxrwxrwx  1 neo neo  370837 May  2 10:44 test
+drwxrwxrwx 10 neo neo    4096 Jan 28  2014 TEST
+-rwxrwxrwx  1 neo neo  812645 May  8 11:18 timit_all.csv
+-rw-r--r--  1 neo neo 1019793 Jun 10 00:20 timit_all_phn.csv
+-rw-r--r--  1 neo neo  655145 Jun 10 00:18 timit_all_txt.csv
+-rw-r--r--  1 neo neo  649019 Jun 10 00:20 timit_all_wrd.csv
+-rwxrwxrwx  1 neo neo  215331 May  8 11:18 timit_test.csv
+-rw-r--r--  1 neo neo  269841 Jun 10 00:20 timit_test_phn.csv
+-rw-r--r--  1 neo neo  173331 Jun 10 00:18 timit_test_txt.csv
+-rw-r--r--  1 neo neo  171687 Jun 10 00:20 timit_test_wrd.csv
+-rwxrwxrwx  1 neo neo  597351 May  8 11:18 timit_train.csv
+-rw-r--r--  1 neo neo  749989 Jun 10 00:20 timit_train_phn.csv
+-rw-r--r--  1 neo neo  481851 Jun 10 00:18 timit_train_txt.csv
+-rw-r--r--  1 neo neo  477369 Jun 10 00:20 timit_train_wrd.csv
+drwxrwxrwx 10 neo neo    4096 Jan 28  2014 TRAIN
