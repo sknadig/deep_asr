@@ -1,1 +1,11 @@
 ./TIMIT/
+./frame_level_models/timit_nodbn_init.h5
+./frame_level_models/timit_dbn_init.h5
+./frame_level_models/features/features_float32.pkl
+./frame_level_models/features/kaldi_dbn_weights.pkl
+./frame_level_models/Graph/old/events.out.tfevents.1528616104.matrix
+./frame_level_models/Graph/old/events.out.tfevents.1528616318.matrix
+./frame_level_models/Graph/old/events.out.tfevents.1528616935.matrix
+./frame_level_models/Graph/timit_dbn/events.out.tfevents.1528617053.matrix
+./frame_level_models/Graph/timit_nodbn/events.out.tfevents.1528631693.matrix
+./frame_level_models/ctc_seq2seq/timit_dataset.pkl
